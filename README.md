@@ -1,3 +1,8 @@
+# EQUI webapp
+
+This is the software which will be run on a interactive display which aims to visualize household energy data.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
