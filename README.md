@@ -2,6 +2,9 @@
 
 This is the software which will be run on a interactive display which aims to visualize household energy data.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 # Getting Started with Create React App
 
